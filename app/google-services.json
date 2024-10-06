@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "634528615121",
+    "project_id": "kotlininstaclone-f325e",
+    "storage_bucket": "kotlininstaclone-f325e.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:634528615121:android:47d824161bfd48f91393f0",
+        "android_client_info": {
+          "package_name": "com.veys.instagramkotlin"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCBlNGN7aV7LTUI4t4B5c78Jt1O9cUaN3g"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
